@@ -1,6 +1,6 @@
-# Tema do WordPress Bikcraft
+# Tema do WordPress YikCraft
 
-O tema do WordPress Bikcraft é um tema personalizado para um restaurante que oferece aos usuários uma interface atraente e fácil de usar para navegar pelos diferentes aspectos do restaurante.
+O tema do WordPress Yikcraft é um tema personalizado para um restaurante que oferece aos usuários uma interface atraente e fácil de usar para navegar pelos diferentes aspectos do restaurante.
 
 ## Requisitos
 
@@ -13,18 +13,18 @@ Para executar este tema, você precisará de um ambiente de servidor web que ate
 
 ## Instalação
 
-Para instalar o tema Bikcraft no seu site WordPress, siga as etapas abaixo:
+Para instalar o tema YikCraft no seu site WordPress, siga as etapas abaixo:
 
 1. Faça o download do tema do GitHub
 2. Descompacte o arquivo .zip do tema
 3. Copie a pasta "wp-content" para a raiz do seu site WordPress
 4. Faça login no seu site WordPress
 5. Vá para "Aparência" -> "Temas"
-6. Clique em "Ativar" no tema Bikcraft
+6. Clique em "Ativar" no tema YikCraft
 
 ## Personalização
 
-O tema Bikcraft é altamente personalizável e inclui muitas opções de personalização, como:
+O tema YikCraft é altamente personalizável e inclui muitas opções de personalização, como:
 
 - Imagem do logotipo
 - Cores do tema
@@ -37,7 +37,7 @@ Para personalizar o tema, vá para "Aparência" -> "Personalizar" no seu painel 
 
 ## Suporte
 
-Se você tiver alguma dúvida ou problema ao usar o tema Bikcraft, sinta-se à vontade para abrir uma [issue](https://github.com/d1av/YikCraft-wordpress/issues) no GitHub. Teremos o prazer de ajudá-lo a resolver qualquer problema que encontrar.
+Se você tiver alguma dúvida ou problema ao usar o tema YikCraft, sinta-se à vontade para abrir uma [issue](https://github.com/d1av/YikCraft-wordpress/issues) no GitHub. Teremos o prazer de ajudá-lo a resolver qualquer problema que encontrar.
 
 ## Licença
 
