@@ -1,6 +1,6 @@
-# Tema do WordPress YikCraft
+# Tema do WordPress Yik
 
-O tema do WordPress Yikcraft é um tema personalizado para um restaurante que oferece aos usuários uma interface atraente e fácil de usar para navegar pelos diferentes aspectos do restaurante.
+O tema do WordPress Yik é um tema personalizado para um restaurante que oferece aos usuários uma interface atraente e fácil de usar para navegar pelos diferentes aspectos do restaurante.
 
 ## Requisitos
 
